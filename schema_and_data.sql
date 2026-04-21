@@ -270,3 +270,6 @@ INSERT INTO Booking VALUES
 (22, 'UA789', '2025-12-31', 1),
 (23, 'UA789', '2025-12-31', 2),
 (24, 'UA789', '2025-12-31', 3);
+
+
+INSERT INTO Flight VALUES ('AA101', '2025-12-15', 'Boeing 737')
